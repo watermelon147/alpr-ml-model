@@ -35,7 +35,7 @@ Ensure you have Python 3.8+ installed. If you have an NVIDIA GPU, it is highly r
 ## 2. Installation
 Clone this repository and install the required computer vision libraries:
 ```bash
-git clone https://github.com/prashant-singh5/alpr-ml-model.git
+git clone https://github.com/watermelon147/alpr-ml-model.git
 
 cd alpr-ml-model
 
